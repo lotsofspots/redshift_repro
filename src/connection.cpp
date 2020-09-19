@@ -1,6 +1,7 @@
 #include <iostream>
 #include <memory>
 #include <sqlext.h>
+#include <stdexcept>
 #include "connection.h"
 
 namespace {

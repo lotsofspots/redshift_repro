@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string.h>
 #include <algorithm>
+#include <stdexcept>
 #include "cache.h"
 
 namespace {
